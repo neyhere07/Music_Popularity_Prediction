@@ -2,8 +2,7 @@
 
 This project involves building machine learning models to estimate the popularity of tracks based on their audio features. Accurately predicting music popularity can assist streaming platforms in better understanding user preferences, optimizing playlists, and enhancing recommendation systems, ultimately boosting user engagement and satisfaction. 
 <br><br>
-<img height="27" src="https://img.shields.io/badge/Project Level - Intermediate-yellow.svg"/>
-
+<!-- <img height="27" src="https://img.shields.io/badge/Project Level - Intermediate-yellow.svg"/> -->
 ![](https://img.shields.io/badge/Programming_Language-Python-blueviolet.svg)
 ![](https://img.shields.io/badge/Main_Tool_Used-Jupyter_Notebook-orange.svg)
 ![](https://img.shields.io/badge/Status-Complete-green.svg)
